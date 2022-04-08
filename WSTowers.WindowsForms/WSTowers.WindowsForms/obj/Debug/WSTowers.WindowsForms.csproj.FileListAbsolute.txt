@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\World Skills\WSTowers.WindowsForms\WSTowers.WindowsForms\obj\Debug\WSTowers.WindowsForms.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\World Skills\WSTowers.WindowsForms\WSTowers.WindowsForms\obj\Debug\WSTowers.WindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\World Skills\WSTowers.WindowsForms\WSTowers.WindowsForms\obj\Debug\WSTowers.WindowsForms.Login.resources
+C:\Users\User\Desktop\World Skills\WSTowers.WindowsForms\WSTowers.WindowsForms\obj\Debug\WSTowers.WindowsForms.Properties.Resources.resources
+C:\Users\User\Desktop\World Skills\WSTowers.WindowsForms\WSTowers.WindowsForms\obj\Debug\WSTowers.WindowsForms.csproj.GenerateResource.cache
+C:\Users\User\Desktop\World Skills\WSTowers.WindowsForms\WSTowers.WindowsForms\obj\Debug\WSTowers.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\World Skills\WSTowers.WindowsForms\WSTowers.WindowsForms\bin\Debug\WSTowers.WindowsForms.exe.config
+C:\Users\User\Desktop\World Skills\WSTowers.WindowsForms\WSTowers.WindowsForms\bin\Debug\WSTowers.WindowsForms.exe
+C:\Users\User\Desktop\World Skills\WSTowers.WindowsForms\WSTowers.WindowsForms\bin\Debug\WSTowers.WindowsForms.pdb
+C:\Users\User\Desktop\World Skills\WSTowers.WindowsForms\WSTowers.WindowsForms\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\World Skills\WSTowers.WindowsForms\WSTowers.WindowsForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\World Skills\WSTowers.WindowsForms\WSTowers.WindowsForms\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\World Skills\WSTowers.WindowsForms\WSTowers.WindowsForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\World Skills\WSTowers.WindowsForms\WSTowers.WindowsForms\obj\Debug\WSTowers.WindowsForms.csproj.CopyComplete
+C:\Users\User\Desktop\World Skills\WSTowers.WindowsForms\WSTowers.WindowsForms\obj\Debug\WSTowers.WindowsForms.exe
+C:\Users\User\Desktop\World Skills\WSTowers.WindowsForms\WSTowers.WindowsForms\obj\Debug\WSTowers.WindowsForms.pdb
+C:\Users\User\Desktop\World Skills\WSTowers.WindowsForms\WSTowers.WindowsForms\obj\Debug\WSTowers.WindowsForms.ListaProdutos.resources
